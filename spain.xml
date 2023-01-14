@@ -197,7 +197,8 @@ https://www.flappin.es/escapadas/romantica-pareja</g:link>
  2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
 -->
 <g:brand>Flappin'</g:brand>
-</item><!--
+</item>
+<!--
 Beach Getaway-->
  <item>
 <!--  The following attributes are always required  -->
@@ -211,6 +212,54 @@ https://www.flappin.es/escapadas/playa</g:link>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
 <g:price>59.90 EUR</g:price>
+<g:shipping>
+<g:country>ES</g:country>
+<g:service>Standard Free Shipping</g:service>
+<g:price>0 EUR</g:price>
+</g:shipping>
+<!--
+ 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
+-->
+<g:brand>Flappin'</g:brand>
+</item>
+<!--
+Surprise Dinner-->
+ <item>
+<!--  The following attributes are always required  -->
+<g:id>RS-EX-RE-SD</g:id>
+<g:title>Cena Sorpresa</g:title>
+<g:description>
+Come o cena en los mejores restaurantes de tu ciudad y vive la emoción de la sorpresa. Menú degustación, bebida y postre incluidos.</g:description>
+<g:link>
+https://www.flappin.es/experiencias/cena-sorpresa</g:link>
+<g:image_link>https://shopping.googleusercontent.com/image?q=AJqGhtUZePe-dSxSAfi9EgW08HEDjWWmFwn374qZ6MYMlcOEQicfv7lXsOn28gUkKzEmvyRnv6jLl8wbEtZz</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>24.90 EUR</g:price>
+<g:shipping>
+<g:country>ES</g:country>
+<g:service>Standard Free Shipping</g:service>
+<g:price>0 EUR</g:price>
+</g:shipping>
+<!--
+ 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
+-->
+<g:brand>Flappin'</g:brand>
+</item>
+ <!--
+Exotic Dinner-->
+ <item>
+<!--  The following attributes are always required  -->
+<g:id>RS-EX-RE-EX</g:id>
+<g:title>Cena Exótica Sorpresa</g:title>
+<g:description>
+Descubre los mejores restaurantes exóticos de tu ciudad y vive la emoción de la sorpresa. Menú degustación, bebida y postre incluidos.</g:description>
+<g:link>
+https://www.flappin.es/experiencias/restaurante-exotico</g:link>
+<g:image_link>https://shopping.googleusercontent.com/image?q=AJqGhtVG2RAKqxFagh_ewCayAN4aeiCq3jQugUqAnIh5n6b3XfbBglogDx2K3mxqr-I2_7mL1tj5G6nSgr39</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>21.90 EUR</g:price>
 <g:shipping>
 <g:country>ES</g:country>
 <g:service>Standard Free Shipping</g:service>
