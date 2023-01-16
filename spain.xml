@@ -6,10 +6,9 @@ This XML file does not appear to have any style information associated with it. 
 <description>
 Reserva o regala viajes, escapadas y experiencias sorpresa en una sola plataforma, desde 19,90€.
 </description>
-<!--
-Europe Trip-->
+
+Europe Trip
 <item>
-<!--  The following attributes are always required  -->
 <g:id>RS-TR-EU</g:id>
 <g:title>Viaje Sorpresa por Europa</g:title>
 <g:description>
@@ -25,15 +24,12 @@ https://www.flappin.es/viajes/europa</g:link>
 <g:service>Standard Free Shipping</g:service>
 <g:price>0 EUR</g:price>
 </g:shipping>
-<!--
- 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
--->
+
 <g:brand>Flappin'</g:brand>
 </item>
-<!--
-Spain Trip-->
- <item>
-<!--  The following attributes are always required  -->
+
+Spain Trip
+<item>
 <g:id>RS-TR-ES</g:id>
 <g:title>Viaje Sorpresa en España</g:title>
 <g:description>
@@ -49,15 +45,12 @@ https://www.flappin.es/viajes/espana</g:link>
 <g:service>Standard Free Shipping</g:service>
 <g:price>0 EUR</g:price>
 </g:shipping>
-<!--
- 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
--->
+
 <g:brand>Flappin'</g:brand>
 </item>
-<!--
-Italy Trip-->
- <item>
-<!--  The following attributes are always required  -->
+ 
+Italy Trip
+<item>
 <g:id>RS-TR-IT</g:id>
 <g:title>Viaje Sorpresa en Italia</g:title>
 <g:description>
@@ -73,15 +66,12 @@ https://www.flappin.es/viajes/italia</g:link>
 <g:service>Standard Free Shipping</g:service>
 <g:price>0 EUR</g:price>
 </g:shipping>
-<!--
- 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
--->
+
 <g:brand>Flappin'</g:brand>
 </item>
-<!--
-Summer Trip-->
+
+Summer Trip
  <item>
-<!--  The following attributes are always required  -->
 <g:id>RS-TR-SU</g:id>
 <g:title>Viaje Verano Sorpresa</g:title>
 <g:description>
@@ -97,15 +87,12 @@ https://www.flappin.es/viajes/verano</g:link>
 <g:service>Standard Free Shipping</g:service>
 <g:price>0 EUR</g:price>
 </g:shipping>
-<!--
- 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
--->
+
 <g:brand>Flappin'</g:brand>
 </item>
-<!--
-Multi Trip-->
- <item>
-<!--  The following attributes are always required  -->
+
+Multi Trip
+<item>
 <g:id>RS-TR-MUL</g:id>
 <g:title>Multidestino Sorpresa por Europa</g:title>
 <g:description>
@@ -121,15 +108,12 @@ https://www.flappin.es/viajes/multidestino</g:link>
 <g:service>Standard Free Shipping</g:service>
 <g:price>0 EUR</g:price>
 </g:shipping>
-<!--
- 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
--->
+
 <g:brand>Flappin'</g:brand>
 </item>
-<!--
-Nature Getaway-->
- <item>
-<!--  The following attributes are always required  -->
+
+Nature Getaway
+<item>
 <g:id>RS-GE-NA</g:id>
 <g:title>Escapada Rural Sorpresa</g:title>
 <g:description>
@@ -145,15 +129,12 @@ https://www.flappin.es/escapadas/rural</g:link>
 <g:service>Standard Free Shipping</g:service>
 <g:price>0 EUR</g:price>
 </g:shipping>
-<!--
- 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
--->
+
 <g:brand>Flappin'</g:brand>
 </item>
-<!--
-Relax Getaway-->
- <item>
-<!--  The following attributes are always required  -->
+
+Relax Getaway
+<item>
 <g:id>RS-GE-RE</g:id>
 <g:title>Escapada Relax Sorpresa</g:title>
 <g:description>
@@ -169,15 +150,12 @@ https://www.flappin.es/escapadas/relax</g:link>
 <g:service>Standard Free Shipping</g:service>
 <g:price>0 EUR</g:price>
 </g:shipping>
-<!--
- 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
--->
+
 <g:brand>Flappin'</g:brand>
 </item>
-<!--
-Romantic Getaway-->
- <item>
-<!--  The following attributes are always required  -->
+
+Romantic Getaway
+<item>
 <g:id>RS-GE-RO</g:id>
 <g:title>Escapada Romántica Sorpresa</g:title>
 <g:description>
@@ -193,15 +171,12 @@ https://www.flappin.es/escapadas/romantica-pareja</g:link>
 <g:service>Standard Free Shipping</g:service>
 <g:price>0 EUR</g:price>
 </g:shipping>
-<!--
- 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
--->
+
 <g:brand>Flappin'</g:brand>
 </item>
-<!--
-Beach Getaway-->
- <item>
-<!--  The following attributes are always required  -->
+
+Beach Getaway
+<item>
 <g:id>RS-GE-BE</g:id>
 <g:title>Escapada Sorpresa en la Playa</g:title>
 <g:description>
@@ -217,15 +192,12 @@ https://www.flappin.es/escapadas/playa</g:link>
 <g:service>Standard Free Shipping</g:service>
 <g:price>0 EUR</g:price>
 </g:shipping>
-<!--
- 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
--->
+
 <g:brand>Flappin'</g:brand>
 </item>
-<!--
-Surprise Dinner-->
- <item>
-<!--  The following attributes are always required  -->
+
+Surprise Dinner
+<item>
 <g:id>RS-EX-RE-SD</g:id>
 <g:title>Cena Sorpresa</g:title>
 <g:description>
@@ -241,15 +213,12 @@ https://www.flappin.es/experiencias/cena-sorpresa</g:link>
 <g:service>Standard Free Shipping</g:service>
 <g:price>0 EUR</g:price>
 </g:shipping>
-<!--
- 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
--->
+
 <g:brand>Flappin'</g:brand>
 </item>
- <!--
-Exotic Dinner-->
+
+Exotic Dinner
  <item>
-<!--  The following attributes are always required  -->
 <g:id>RS-EX-RE-EX</g:id>
 <g:title>Cena Exótica Sorpresa</g:title>
 <g:description>
@@ -265,9 +234,7 @@ https://www.flappin.es/experiencias/restaurante-exotico</g:link>
 <g:service>Standard Free Shipping</g:service>
 <g:price>0 EUR</g:price>
 </g:shipping>
-<!--
- 2 of the following 3 attributes are required fot this item according to the Unique Product Identifier Rules 
--->
+  
 <g:brand>Flappin'</g:brand>
 </item>
 </channel>
